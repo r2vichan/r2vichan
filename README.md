@@ -1,6 +1,12 @@
 ### Welcome! 👋
 
+[![My Skills]
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,java,py,aws,git,mysql,postman,sublime,vscode,&perline=3" />
+  </a>
+</p>
 <!--
 **r2vichan/r2vichan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
