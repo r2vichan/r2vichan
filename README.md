@@ -9,16 +9,18 @@
 </p>
 
 ## Contact Me
-<ins></ins>
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/ravi-rajappa/">
     <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://leetcode.com/u/r2vi/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+  <a href="mailto:rrajapp1@asu.edu">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<img src="{BadgeURLHere}" />
-
-## Resume
 
 
 
