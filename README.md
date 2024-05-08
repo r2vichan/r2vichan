@@ -4,6 +4,8 @@ I'm a computer science graduate student at Arizona State University, with a focu
 
 I have a deep interest for Identity Management and Cloud Services, a combination that is extremely versatile. My goal is to leverage these skills to revolutionize the way digital identities are managed and ensure the security of critical assets. My experience includes managing teams in building microservice endpoints for Enterprise Privilege Access Management and Automation.
 
+<p>For more information about my experiences and skills, you can find my resume <a href="https://drive.google.com/file/d/1CgdoAdn9xSAFcZu0e6lHoGmjyuZd51Zl/view?usp=drive_link" title="here"></p>
+
 ## Skillset
 <ins></ins>
 <p align="center">
@@ -17,6 +19,7 @@ I have a deep interest for Identity Management and Cloud Services, a combination
   <a href="https://www.credly.com/badges/d6720688-b0e8-41ee-bed9-1bb44d4f88b1">
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://acrobat.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A8ea63857-3cbe-3c10-a0e7-1cd3a2cab561">
     <img src="https://img.shields.io/badge/CyberArk-173159?style=for-the-badge&logoColor=173159">
   </a>
@@ -27,9 +30,11 @@ I have a deep interest for Identity Management and Cloud Services, a combination
   <a href="https://www.linkedin.com/in/ravi-rajappa/">
     <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="https://leetcode.com/u/r2vi/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
+  &nbsp;
   <a href="mailto:rrajapp1@asu.edu">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
