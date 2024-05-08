@@ -1,8 +1,8 @@
-### Welcome to Ravi's GitHub! 👋
+### Hi, I'm Ravi
 
 I'm a computer science graduate student at Arizona State University, with a focus on cybersecurity. With prior experience as an Identity Access Management Software Engineer at the General Electric Company, my skillset ranges from Identity Security, Cloud Services, REST APIs to Backend Development, and my goal is to improve the ways Identity and Cloud infrastructures are managed across enterprise organizations. 
 
-I have a deep interest for Identity Management and a
+I have a deep interest for Identity Management and Cloud Services, a combination that is extremely versatile. My goal is to leverage these skills to revolutionize the way digital identities are managed and ensure the security of critical assets.
 
 ## My Skills
 <ins></ins>
@@ -13,7 +13,7 @@ I have a deep interest for Identity Management and a
 </p>
 
 ## Certifications
-<p>
+<p align="center">
   <a href="https://www.credly.com/badges/d6720688-b0e8-41ee-bed9-1bb44d4f88b1">
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   </a>
