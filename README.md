@@ -1,4 +1,8 @@
-### Welcome! 👋
+### Welcome to Ravi's GitHub! 👋
+
+I'm a computer science graduate student at Arizona State University, with a focus on cybersecurity. With prior experience as an Identity Access Management Software Engineer at the General Electric Company, my skillset ranges from Identity Security, Cloud Services, REST APIs to Backend Development, and my goal is to improve the ways Identity and Cloud infrastructures are managed across enterprise organizations. 
+
+I have a deep interest for Identity Management and a
 
 ## My Skills
 <ins></ins>
@@ -8,6 +12,16 @@
   </a>
 </p>
 
+## Certifications
+<p>
+  <a href="https://www.credly.com/badges/d6720688-b0e8-41ee-bed9-1bb44d4f88b1">
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  </a>
+  <a href="https://acrobat.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A8ea63857-3cbe-3c10-a0e7-1cd3a2cab561">
+    <img src="https://img.shields.io/badge/CyberArk?style=for-the-badge" />
+  </a>
+</p>
+  
 ## Contact Me
 <p align="center">
   <a href="https://www.linkedin.com/in/ravi-rajappa/">
