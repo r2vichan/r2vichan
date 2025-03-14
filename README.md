@@ -4,7 +4,7 @@ I'm a computer science graduate student at Arizona State University, with a focu
 
 I have a deep interest for Identity Management and Cloud Services, a combination that is extremely versatile. My goal is to leverage these skills to revolutionize the way digital identities are managed and ensure the security of critical assets. My experience includes managing teams in building microservice endpoints for Enterprise Privilege Access Management and Automation.
 
-For more information about my experiences and skills, you can find my resume [here](https://drive.google.com/file/d/1aE8ccc7UEOUKWVOXRHFq9OUChdqaO87M/view?usp=sharing)
+For more information about my experiences and skills, you can find my resume [here](https://drive.google.com/file/d/1X1Pwu0VecYguoBe7aXikdHl1vUXrxi_9/view?usp=sharing)
 
 ## Skillset
 <ins></ins>
