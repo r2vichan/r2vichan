@@ -10,7 +10,7 @@ For more information about my experiences and skills, you can find my resume [he
 <ins></ins>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,java,py,d3,express,aws,git,mysql,postgres,postman,vscode" />
+    <img src="https://skillicons.dev/icons?i=nodejs,java,py,d3,html,css,js,react,express,aws,git,mysql,postgres,docker,postman,vscode,bash" />
   </a>
 </p>
 
