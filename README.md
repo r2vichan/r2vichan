@@ -1,6 +1,6 @@
 ### Hi, I'm Ravi
 
-Currently swe @ Dealops. 
+
 
 Previously at -
 1. Lumeus.ai - worked on a lot of devops/infra for core application, and some observability for test suites. Bash, Python, Jenkins CI/CD, AWS (S3, EC2, VPC, R53). Lumeus.ai was acquired by Fiddler AI.
